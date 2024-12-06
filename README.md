@@ -7,7 +7,7 @@
 - 🚀 Continuously building my skills for a bright future in tech.  
 
 ## 🛠️ Skills and Tools  
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,r)](https://github.com/combox1234)  
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,r,arduino)](https://github.com/combox1234)  
 
 ## 📊 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=combox1234&show_icons=true&theme=radical)  
@@ -20,3 +20,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/x.____parth.____x/)  
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathpatil1504@gmail.com)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=combox1234&label=Profile%20Views&color=0&icon=6&pretty=false" />
+</a>
