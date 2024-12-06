@@ -14,7 +14,7 @@ I enjoy working on coding projects, solving real-world problems,  and building m
 
 ## 📊 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=combox1234&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=combox1234&layout=compact&theme=radical)](https://github.com/combox1234 )  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=combox1234&layout=compact&theme=radical)](https://github.com/combox1234)  
 
 ## 🌟 Projects  
 Here are a few projects I’m working on:  
