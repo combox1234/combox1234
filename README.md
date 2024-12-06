@@ -10,11 +10,11 @@ I enjoy working on coding projects, solving real-world problems,  and building m
 - ⚡ Fun fact: [Write something unique about yourself, e.g., "I love solving puzzles!"].  
 
 ## 🛠️ Skills and Tools  
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,c)](https://github.com/your-username)  
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,c)](https://github.com/combox1234 )  
 
 ## 📊 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/combox1234 )  
 
 ## 🌟 Projects  
 Here are a few projects I’m working on:  
@@ -23,7 +23,7 @@ Here are a few projects I’m working on:
 
 ## 🔗 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/your-username)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/combox1234 )  
 
 ---
 
