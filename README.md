@@ -1,8 +1,10 @@
 # Hi there 👋, I'm Parth Nitin Patil
 
 ## 🚀 About Me  
-I'm a computer science student @PCCoE, passionate about exploring and learning new technologies.  
-I enjoy working on coding projects, solving real-world problems,  and building my skills for a bright future in tech.      
+- 🎓 I'm a Computer Science student at **PCCoE**.  
+- 🌟 Passionate about exploring and learning new technologies.  
+- 💻 I enjoy working on coding projects that solve real-world problems.  
+- 🚀 Continuously building my skills for a bright future in tech.  
 
 ## 🛠️ Skills and Tools  
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,r)](https://github.com/combox1234)  
