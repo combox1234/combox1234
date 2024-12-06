@@ -10,7 +10,7 @@ I enjoy working on coding projects, solving real-world problems,  and building m
 - ⚡ Fun fact: [Write something unique about yourself, e.g., "I love solving puzzles!"].  
 
 ## 🛠️ Skills and Tools  
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,c)](https://github.com/combox1234 )  
+[![My Skills](https://skillicons.dev/icons?i=python,c,c++,R)](https://github.com/combox1234)  
 
 ## 📊 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=combox1234&show_icons=true&theme=radical)  
