@@ -4,7 +4,7 @@ Hi there 👋, I'm Parth Nitin Patil
 - 💻 I enjoy working on coding projects that solve real-world problems.  
 - 🚀 Continuously building my skills for a bright future in tech.  
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,r,arduino,java,git,postman,unity,docker,cpp,mongo,mysql,flask,fastapi)](https://github.com/combox1234)  
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,r,arduino,java,git,postman,unity,docker,mongo,mysql,flask,fastapi)](https://github.com/combox1234)  
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=combox1234&theme=discord_old_blurple&hide_border=false)](https://github.com/combox1234)  
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=combox1234&theme=vue&area=true&hide_border=true&radius=16)](https://github.com/combox1234)
 <picture>
