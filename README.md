@@ -117,15 +117,15 @@ Hi 👋, I'm **Parth Patil** from **Pune, India 🇮🇳**
 ## 💻 Coding Profiles
 
 <p align="center">
-  <a href="YOUR_LEETCODE">
+  <a href="https://leetcode.com/u/skullroster/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"/>
   </a>
 
-  <a href="YOUR_CODECHEF">
+  <a href="https://www.codechef.com/users/combox1234">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white"/>
   </a>
 
-  <a href="YOUR_HACKERRANK">
+  <a href="https://www.hackerrank.com/profile/yarparth1">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white"/>
   </a>
 </p>
